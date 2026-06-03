@@ -14,9 +14,9 @@ Human screams are emotionally salient vocalizations that may carry identity-rele
 We replicate prior findings while extending analysis using mixed-factor ANOVA and trial-level latency measures.
 
 ---
-```
-## 📁 Repository Structure
 
+## 📁 Repository 
+```
 /📂 data/
 
 └── Human_Scream_Data.csv # Cleaned dataset used for replication analysis
