@@ -17,7 +17,7 @@ We replicate prior findings while extending analysis using mixed-factor ANOVA an
 ```
 ## 📁 Repository Structure
 
-/ 📂 data/
+/📂 data/
 
 └── Human_Scream_Data.csv # Cleaned dataset used for replication analysis
 
