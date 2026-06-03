@@ -33,7 +33,7 @@ We replicate prior findings while extending analysis using mixed-factor ANOVA an
 ## 🧪 Methodology
 
 **Participants:**  
-104 college students (73 female, 41 male) from Emory University.
+104 college students (73 female, 31 male) from Emory University.
 
 **Stimuli:**  
 58 trials consisting of scream pairs from movies, TV, and internet sources—each pair classified as:
@@ -42,7 +42,7 @@ We replicate prior findings while extending analysis using mixed-factor ANOVA an
 - Duration Modified
 
 **Procedure:**  
-Participants judged whether each scream pair came from the same individual or not. Response accuracy and latency were recorded. Premature responses (< -10ms after second scream onset) were excluded.
+Participants judged whether each scream pair came from the same individual or not. Response accuracy and latency were recorded. Premature responses (those made more than 10 ms before the second scream ended, i.e. Actual_Latency < -10 ms) were excluded.
 
 ---
 
@@ -63,7 +63,7 @@ We conducted analyses:
 
 - **Average d′ Score**: 1.63 (indicating strong discriminability)
 - **Vocalizer Gender**:
-  - Male vocalizers were more easily recognized (mean d′ = 1.72)
+  - Male vocalizers were more easily recognized (mean d′ = 1.69)
   - Female vocalizers were less distinguishable (mean d′ = 1.55)
 - **Listener Gender**:
   - No significant effect on d′ scores or response latencies
